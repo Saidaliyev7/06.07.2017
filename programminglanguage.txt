@@ -1,0 +1,19 @@
+assembly dili belkede en cetin dillerden biridir ama bu dil cox vacib bir dildir 
+cunki bu dil vasitesi ile emeliyyat sistemlerini drayverleri falan yazrirlar 
+assembler dili cox suretli dildi ve hemcinin kompakt bir dildir bu dil ile 
+biosu ve onun prowifkalarini yeniliyiller ama bu dilin menfi ceheti ondan 
+ibaretdirki bu dilde yazmaq cox cetindi ve diger high lever poqram dillerinde
+proqram yazan insanlar burada duzgun yazmiya bilerler yeni mence bu dilin 
+menfi ceheti onun cox cetin olmasindadi ama cetin olmasina baxmayaraq mence hemde 
+cox vacib dildir
+indi ise c haqqinda deym :D c hal hazirda cox istifade olunan bir dildir cunki 
+meselen bu dil vasitesi ile oyunlar yazrlar robotlar qururlar ve s. yeni bu dilin 
+istifade dairesi cox boyukdur dilin istifadesi yeni cox proqramist terefinden bawa duwulen 
+olmasi bu dilin mysbet cehetlerinden biridir ama bu dilde proqram yazan zaman cox
+duzgun yazmaq lazimdi cunki bu dilin en boyuk mene gore menfi ceheti pointerlerdi 
+cunki pointerler vastiesi ile her bir proqramin yaddawda adresini deyiwmek mumkundu
+ve s. ona gore bu dil o qederde ideal deyildir bu dil oz komplyatoru vasitesi ile 
+cox adamin ureyine yatmiwdir ama bu menfi cehetleri onu gelecekde nisbeten daha az istifade 
+etmeye vadar etmiwdir 
+apn.net haqda :( tapanmiram :'(
+
